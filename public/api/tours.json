@@ -1,0 +1,204 @@
+
+{"tours" : [
+    {
+    "id": 1,
+    "title": "Algiers Casbah",
+    "region": "Algiers",
+    "description": "UNESCO-listed medina, Ketchaoua Mosque, Palace of the Dey.",
+    "image":"/images/casbah.jpg"
+},
+    {
+    "id": 2,
+    "title": "Tipaza Roman Ruins",
+    "region": "Tipaza",
+    "description": "Coastal Roman site with amphitheater, museum, and basilicas.",
+    "image":"/images/tipaza-roman-ruins.jpg"
+},
+    {
+    "id": 4,
+    "title": "Chrea National Park",
+    "region": "Blida",
+    "description": "Atlas forest hikes, snow in winter, Barbary macaques.",
+    "image":"/images/chrea.jpg"
+},
+    {
+    "id": 6,
+    "title": "Gouraya National Park",
+    "region": "Bejaia",
+    "description": "Cap Carbon, Yemma Gouraya, and monkey sanctuary.",
+    "image":"/images/bejaia.jpg"
+},
+    {
+    "id": 7,
+    "title": "Jijel Corniche & Grotto",
+    "region": "Jijel",
+    "description": "Beaches, caves, and national parks.",
+    "image":"/images/jijel.jpg"
+},
+    {
+    "id": 8,
+    "title": "Tizi-Ouzou Cultural",
+    "region": "Tizi-Ouzou",
+    "description": "Kabyle villages, pottery, and traditional music.",
+    "image":"/images/tiziouzou.jpg"
+},
+
+    {
+    "id": 9,
+    "title": "Timgad Roman City",
+    "region": "Batna",
+    "description": "UNESCO Roman ruins with amphitheater and forums.",
+    "image":"/images/timgad.jpg"
+},
+    {
+    "id": 10,
+    "title": "Djemila Ruin",
+    "region": "Setif",
+    "description": "One of North Africa’s best-preserved Roman towns.",
+    "image":"/images/djemila.jpg"
+},
+    {
+    "id": 11,
+    "title": "Constantine Hanging Bridges",
+    "region": "Constantine",
+    "description": "City of bridges, medina, and Sidi M’Cid bridge.",
+    "image":"/images/constantine.jpg"
+},
+    {
+    "id": 12,
+    "title": "Annaba & Hippo Regius",
+    "region": "Annaba",
+    "description": "Ruins of Hippo and Basilica of St. Augustine.",
+    "image":"/images/annaba.jpg"
+},
+    {
+    "id": 13,
+    "title": "Guelma Thermal & Roman",
+    "region": "Guelma",
+    "description": "Hammam Debagh hot springs, Roman ruins, and waterfalls.",
+    "image":"/images/gualma.jpg"
+},
+    {
+    "id": 14,
+    "title": "Souk Ahras Numidian Heritage",
+    "region": "Souk Ahras",
+    "description": "Birthplace of Saint Augustine and Madaure ruins.",
+    "image":"/images/souk ahras.jpg"
+},
+    {
+    "id": 15,
+    "title": "Tébessa Roman",
+    "region": "Tébessa",
+    "description": "Amphitheaters and ancient gates near Tunisian border.",
+    "image":"/images/tebessa.jpg"
+},
+
+    {
+    "id": 16,
+    "title": "Oran City & Coastal",
+    "region": "Oran",
+    "description": "Santa Cruz Fortress, colonial architecture, beaches.",
+    "image":"/images/oran.jpg"
+},
+    {
+    "id": 17,
+    "title": "Tlemcen Heritage & Waterfalls",
+    "region": "Tlemcen",
+    "description": "Mansourah ruins, El Mechouar, and El-Ourit falls.",
+    "image":"/images/telemcen.jpg"
+},
+    {
+    "id": 18,
+    "title": "Mostaganem Coastal",
+    "region": "Mostaganem",
+    "description": "Riverside, colonial forts, and Andalusian legacy.",
+    "image":"/images/mostaganem.jpg"
+},
+    {
+    "id": 19,
+    "title": "Mascara Emir Abdelkader",
+    "region": "Mascara",
+    "description": "Sites of Algeria’s national hero in Ghriss Valley.",
+    "image":"/images/mascara.jpg"
+},
+
+
+    {
+    "id": 20,
+    "title": "Ghardaïa M’zab Valley",
+    "region": "Ghardaïa",
+    "description": "Ibadi cities, traditional markets, UNESCO architecture.",
+    "image":"/images/ghardaia-tour.jpg"
+},
+    {
+    "id": 21,
+    "title": "Timimoun – The Red Oasis",
+    "region": "Timimoun",
+    "description": "Red dunes, ksour, and Saharan sunset experiences.",
+    "image":"/images/timimoun.jpg"
+},
+    {
+    "id": 22,
+    "title": "Tamanrasset & Assekrem",
+    "region": "Tamanrasset",
+    "description": "Hoggar Mountains, Tuareg culture, and Assekrem sunrise.",
+    "image":"/images/tamanrasset.jpg"
+},
+    {
+    "id": 23,
+    "title": "Tassili n’Ajjer Hiking",
+    "region": "Djanet",
+    "description": "Prehistoric cave art, surreal rock landscapes (UNESCO).",
+    "image":"/images/Tassili n'Ajjer,.jpg"
+},
+    {
+    "id": 24,
+    "title": "El Oued – City of 1000 Domes",
+    "region": "El Oued",
+    "description": "Domed desert architecture and lively souks.",
+    "image":"/images/El oued.jpg"
+},
+    {
+    "id": 25,
+    "title": "Laghouat Desert Gateway",
+    "region": "Laghouat",
+    "description": "Palm groves, ksar, and desert plains.",
+    "image":"/images/laghouat.jpg"
+},
+    {
+    "id": 26,
+    "title": "Biskra & Ziban Oasis",
+    "region": "Biskra",
+    "description": "Tolga dates, hot springs, and palm plantations.",
+    "image":"/images/Biskra.jpg"
+},
+    {
+    "id": 27,
+    "title": "In Salah Mud Architecture",
+    "region": "In Salah",
+    "description": "Unique quake-resistant desert buildings.",
+    "image":"/images/in salah.jpg"
+},
+    {
+    "id": 28,
+    "title": "Bou Saada Artists & Oasis",
+    "region": "Bou Saada",
+    "description": "Home of painter Dinet, palm trees, and dunes.",
+    "image":"/images/Bousâada.jpg"
+},
+    {
+    "id": 29,
+    "title": "El Bayadh Saharan Plateau",
+    "region": "El Bayadh",
+    "description": "Remote plains and nomadic shepherd culture.",
+    "image":"/images/el bayadh.jpg"
+},
+    {
+    "id": 31,
+    "title": "Beni Hammad Fort",
+    "region": "M’Sila",
+    "description": "Hammadid dynasty ruins in mountain setting (UNESCO).",
+    "image":"/images/beni hammad.jpg"
+}
+]
+}

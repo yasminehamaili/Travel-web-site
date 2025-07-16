@@ -1,0 +1,351 @@
+{"wilayas" :[
+  {
+    "code": 1,
+    "name": "Adrar",
+    "description": "A vast desert wilaya in the southwest known for its oases and Tuareg heritage.",
+    "image":"/images/1.jpg"
+  },
+  {
+    "code": 2,
+    "name": "Chlef",
+    "description": "Located near the Mediterranean, known for agriculture and scenic mountains.",
+    "image":"/images/2.jpg"
+  },
+  {
+    "code": 3,
+    "name": "Laghouat",
+    "description": "A Saharan gateway with palm groves and historic architecture.",
+    "image":"/images/3.jpg"
+  },
+  {
+    "code": 4,
+    "name": "Oum El Bouaghi",
+    "description": "Famous for Roman ruins and a growing agricultural economy.",
+    "image":"/images/4.jpg"
+  },
+  {
+    "code": 5,
+    "name": "Batna",
+    "description": "Home to the Aurès Mountains and the ancient city of Timgad.",
+    "image":"/images/5.jpg"
+  },
+  {
+    "code": 6,
+    "name": "Béjaïa",
+    "description": "A coastal city known for its port, beaches, and Kabyle culture.",
+    "image":"/images/6.jpg"
+  },
+  {
+    "code": 7,
+    "name": "Biskra",
+    "description": "The 'Gateway to the Sahara', known for its date palms and hot springs.",
+    "image":"/images/7.jpg"
+  },
+  {
+    "code": 8,
+    "name": "Béchar",
+    "description": "A desert wilaya with unique architecture and mining activity.",
+    "image":"/images/8.jpg"
+  },
+  {
+    "code": 9,
+    "name": "Blida",
+    "description": "Close to Algiers, known as the 'City of Roses' with a mild climate.",
+    "image":"/images/9.jpg"
+  },
+  {
+    "code": 10,
+    "name": "Bouira",
+    "description": "Mountainous and green, part of the Kabylie region.",
+    "image":"/images/10.jpg"
+  },
+  {
+    "code": 11,
+    "name": "Tamanrasset",
+    "description": "Deep in the Sahara, a hub for Tuareg culture and desert tourism.",
+    "image":"/images/11.jpg"
+  },
+  {
+    "code": 12,
+    "name": "Tébessa",
+    "description": "Bordering Tunisia, rich with Roman archaeological sites.",
+    "image":"/images/12.jpg"
+  },
+  {
+    "code": 13,
+    "name": "Tlemcen",
+    "description": "A historic Andalusian city with rich Islamic architecture.",
+    "image":"/images/13.jpg"
+  },
+  {
+    "code": 14,
+    "name": "Tiaret",
+    "description": "Highland region with ancient ruins and vast plains.",
+    "image":"/images/14.jpg"
+  },
+  {
+    "code": 15,
+    "name": "Tizi Ouzou",
+    "description": "The heart of Kabylie, known for its strong cultural identity.",
+    "image":"/images/15.jpg"
+  },
+  {
+    "code": 16,
+    "name": "Algiers",
+    "description": "The capital city of Algeria, a political, economic, and cultural center.",
+    "image":"/images/16.jpg"
+  },
+  {
+    "code": 17,
+    "name": "Djelfa",
+    "description": "A steppe region with pastoralism and prehistoric rock art.",
+    "image":"/images/17.jpg"
+  },
+  {
+    "code": 18,
+    "name": "Jijel",
+    "description": "A coastal area with stunning beaches and national parks.",
+    "image":"/images/18.jpg"
+  },
+  {
+    "code": 19,
+    "name": "Sétif",
+    "description": "A major city with Roman ruins and a strong agricultural base.",
+    "image":"/images/19.jpg"
+  },
+  {
+    "code": 20,
+    "name": "Saïda",
+    "description": "Known for its thermal springs and agricultural products.",
+    "image":"/images/20.jpg"
+  },
+  {
+    "code": 21,
+    "name": "Skikda",
+    "description": "A Mediterranean port with Roman sites and beach resorts.",
+    "image":"/images/21.jpg"
+  },
+  {
+    "code": 22,
+    "name": "Sidi Bel Abbès",
+    "description": "A key agricultural and academic center in the west.",
+    "image":"/images/22.jpg"
+  },
+  {
+    "code": 23,
+    "name": "Annaba",
+    "description": "A coastal city with beaches and the ancient site of Hippo Regius.",
+    "image":"/images/23.jpg"
+  },
+  {
+    "code": 24,
+    "name": "Guelma",
+    "description": "Rich in history, with Roman theaters and hot springs.",
+    "image":"/images/24.jpg"
+  },
+  {
+    "code": 25,
+    "name": "Constantine",
+    "description": "Famous for its dramatic bridges and deep cultural heritage.",
+    "image":"/images/25.jpg"
+  },
+  {
+    "code": 26,
+    "name": "Médéa",
+    "description": "A mountainous region with Ottoman architecture and vineyards.",
+    "image":"/images/26.jpg"
+  },
+  {
+    "code": 27,
+    "name": "Mostaganem",
+    "description": "A coastal wilaya known for fishing, beaches, and music.",
+    "image":"/images/27.jpg"
+  },
+  {
+    "code": 28,
+    "name": "M'Sila",
+    "description": "An inland region centered on farming and trade.",
+    "image":"/images/28.jpg"
+  },
+  {
+    "code": 29,
+    "name": "Mascara",
+    "description": "Known for its vineyards and as Emir Abdelkader's birthplace.",
+    "image":"/images/29.jpg"
+  },
+  {
+    "code": 30,
+    "name": "Ouargla",
+    "description": "A desert region rich in oil and historical ksars.",
+    "image":"/images/30.jpg"
+  },
+  {
+    "code": 31,
+    "name": "Oran",
+    "description": "A vibrant port city with a Spanish colonial past.",
+    "image":"/images/31.jpg"
+  },
+  {
+    "code": 32,
+    "name": "El Bayadh",
+    "description": "A Saharan steppe area with nomadic traditions.",
+    "image":"/images/32.jpg"
+  },
+  {
+    "code": 33,
+    "name": "Illizi",
+    "description": "Remote and beautiful, home to Tassili n'Ajjer National Park.",
+    "image":"/images/33.jpg"
+  },
+  {
+    "code": 34,
+    "name": "Bordj Bou Arreridj",
+    "description": "A tech-savvy city with growing industry and education.",
+    "image":"/images/34.jpg"
+  },
+  {
+    "code": 35,
+    "name": "Boumerdès",
+    "description": "A coastal wilaya with science institutes and beautiful shores.",
+    "image":"/images/35.jpg"
+  },
+  {
+    "code": 36,
+    "name": "El Tarf",
+    "description": "Bordering Tunisia, known for its lakes and national parks.",
+    "image":"/images/36.jpg"
+  },
+  {
+    "code": 37,
+    "name": "Tindouf",
+    "description": "Home to Sahrawi refugee camps and important for geopolitics.",
+    "image":"/images/37.jpg"
+  },
+  {
+    "code": 38,
+    "name": "Tissemsilt",
+    "description": "Mountainous and green, with eco-tourism potential.",
+    "image":"/images/38.jpg"
+  },
+  {
+    "code": 39,
+    "name": "El Oued",
+    "description": "Called the 'City of a Thousand Domes', built in the sand dunes.",
+    "image":"/images/39.jpg"
+  },
+  {
+    "code": 40,
+    "name": "Khenchela",
+    "description": "Known for the Aurès mountains and traditional culture.",
+    "image":"/images/40.jpg"
+  },
+  {
+    "code": 41,
+    "name": "Souk Ahras",
+    "description": "Birthplace of St. Augustine, with rich Roman history.",
+    "image":"/images/41.jpg"
+  },
+  {
+    "code": 42,
+    "name": "Tipaza",
+    "description": "A beautiful coastal city with Roman ruins by the sea.",
+    "image":"/images/42.jpg"
+  },
+  {
+    "code": 43,
+    "name": "Mila",
+    "description": "An agricultural wilaya with hills and forests.",
+    "image":"/images/43.jpg"
+  },
+  {
+    "code": 44,
+    "name": "Aïn Defla",
+    "description": "Lush and fertile, known for fruit orchards.",
+    "image":"/images/44.jpg"
+  },
+  {
+    "code": 45,
+    "name": "Naâma",
+    "description": "A desert plateau region with rugged beauty.",
+    "image":"/images/45.jpg"
+  },
+  {
+    "code": 46,
+    "name": "Aïn Témouchent",
+    "description": "A wine-producing coastal wilaya west of Oran.",
+    "image":"/images/46.jpg"
+  },
+  {
+    "code": 47,
+    "name": "Ghardaïa",
+    "description": "A UNESCO-listed town with unique M'zab valley architecture.",
+    "image":"/images/47.jpg"
+  },
+  {
+    "code": 48,
+    "name": "Relizane",
+    "description": "A western wilaya focused on cereals and light industry.",
+    "image":"/images/48.jpg"
+  },
+  {
+    "code": 49,
+    "name": "Timimoun",
+    "description": "An oasis town famous for its red earth and Saharan charm.",
+    "image":"/images/49.jpg"
+  },
+  {
+    "code": 50,
+    "name": "Bordj Badji Mokhtar",
+    "description": "A vast desert wilaya in the deep southwest.",
+    "image":"/images/50.jpg"
+  },
+  {
+    "code": 51,
+    "name": "Ouled Djellal",
+    "description": "Known for agriculture and palm groves in the Sahara.",
+    "image":"/images/51.jpg"
+  },
+  {
+    "code": 52,
+    "name": "Béni Abbès",
+    "description": "A cultural and desert heritage site in southwestern Algeria.",
+    "image":"/images/52.jpg"
+  },
+  {
+    "code": 53,
+    "name": "In Salah",
+    "description": "A desert hub with natural gas fields and extreme heat.",
+    "image":"/images/53.jpg"
+  },
+  {
+    "code": 54,
+    "name": "In Guezzam",
+    "description": "Bordering Niger, known for trans-Saharan trade.",
+    "image":"/images/54.jpg"
+  },
+  {
+    "code": 55,
+    "name": "Touggourt",
+    "description": "Historic oasis town with Saharan architecture.",
+    "image":"/images/55.jpg"
+  },
+  {
+    "code": 56,
+    "name": "Djanet",
+    "description": "Tourism jewel with rock art and sandstone canyons.",
+    "image":"/images/56.jpg"
+  },
+  {
+    "code": 57,
+    "name": "El M'Ghair",
+    "description": "Oasis-based wilaya with desert agriculture.",
+    "image":"/images/57.jpg"
+  },
+  {
+    "code": 58,
+    "name": "El Menia",
+    "description": "Located in the Grand Erg Occidental, known for sand dunes.",
+    "image":"/images/58.jpg"
+  }
+]
+}

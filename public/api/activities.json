@@ -1,0 +1,58 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "title": "Ride the Sablette Ferris Wheel",
+      "description": "SCatch sweeping views of Algiers and the sea on a relaxing ride aboard the iconic Sablette Ferris wheel.",
+      "image": "/images/sablette.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Dress in a Traditional Hayek in Algiers' Casbah",
+      "description": "Try on the elegant white garment once worn by women in Algiers and stroll through the historic streets.",
+      "image":"/images/hayek.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Sip Mint Tea with Locals in Ghardaïa",
+      "description": "Discover the Sahara's warm hospitality while sharing sweet mint tea in the M'zab valley.",
+      "image":"/images/gherdaia.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Go Horseback Riding Along the Beaches of Tipaza",
+      "description": "Ride horses on scenic coastal paths near ancient Roman ruins — an unforgettable blend of nature and history.",
+      "image":"/images/tipaza.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Attend a Live Chaabi or Andalusian Music Show",
+      "description": "Feel the soul of Algeria through its traditional music — performed in cozy venues or at cultural festivals.",
+      "image":"/images/chaabi.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Experience a Henna Session with Local Artisans",
+      "description": "Get traditional henna designs while learning about their cultural meaning and symbolism.",
+      "image":"/images/hena.jpeg"
+    },
+    {
+      "id": 7,
+      "title": "Cook Couscous with an Algerian Family",
+      "description": "Take part in preparing the national dish and share a homemade meal full of warmth and tradition.",
+      "image":"/images/couscous.jpeg"
+    },
+    {
+      "id": 8,
+      "title": "Explore a Traditional Market (Souk)",
+      "description": "Discover local spices, textiles, and handmade crafts — and try your hand at bargaining.",
+      "image":"/images/souk.jpeg"
+    },
+    {
+      "id": 9,
+      "title": "Wild Encounters at Hama Zoo",
+      "description": "Meet lions, monkeys, and exotic birds at Hama Zoo — a peaceful escape in the heart of Algiers, perfect for families and animal lovers.",
+      "image":"/images/zoo.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+@font-face {
+    font-family:satoshi ;
+    src: url(../../public/fonts/Satoshi-Variable.ttf);
+}
+.footer{
+    background-color: #686767;
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    color: #fff;
+    font-family: satoshi;
+}
+.logo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.contact{
+    display: flex;
+    gap: 80px;
+    justify-content: center;
+    width: 80%;
+    flex-wrap: wrap;
+}
+.phone , .email{
+    display: flex;
+    align-items: center;
+    gap: 2vw;
+    background-color: #8d8d8d;
+    justify-content: center;
+    border-radius: 20px;
+    padding: 5px 0px;
+    flex: 1 1 10%;
+    letter-spacing: 1.5px;
+}
+.email{
+    width: 200px;
+}
+.phone{
+    width: 150px;
+}
+.h5{
+    font-size: 0.5rem;
+}
+.img{
+    opacity: 50%;
+}
+.text{
+    font-size: 0.8rem;
+}
+.icon{
+    background-color: #686767;
+    padding: 7px;
+    border-radius: 50px;
+    font-size: 0.8rem;
+}
+@media (max-width: 450px) {
+    .footer {
+    height: 25vh;
+    gap: 1rem;
+    padding: 2rem 0;
+}
+
+    .contact {
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+    .phone,
+    .email {
+    width: 90%;
+}
+
+    .h5 {
+    font-size: 0.6rem;
+}
+
+    .text {
+    font-size: 0.75rem;
+}
+
+    .icon {
+    font-size: 0.75rem;
+}
+}

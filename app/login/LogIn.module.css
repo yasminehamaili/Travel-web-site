@@ -1,0 +1,242 @@
+@font-face {
+    font-family:satoshi ;
+    src: url(../../public/fonts/Satoshi-Variable.ttf);
+}
+@font-face {
+    font-family: babydoll;
+    src: url(../../public/fonts/Montserrat-ExtraBold.ttf);
+}
+body{
+    height: 100vh;
+    align-content: center;
+    justify-items: center;
+}
+
+.opposite, .oppositeTwo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    height: 100%;
+    width: 50%;
+    background-image: url(../../public/images/signin.jpg);
+    background-size: cover;
+    backdrop-filter: blur(50px);
+}
+.opposite{
+    border-bottom-left-radius: 12px;
+    border-top-left-radius: 12px;
+}
+.oppositeTwo{
+    background-image: url(../../public/images//bg3.jpg);
+}
+.descO{
+    width: 70%;
+    text-align: center;
+}
+.notOpposite, .notOppositeTwo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    height: 100%;
+    width: 60%;
+    color: rgba(134,106,102,255);
+
+}
+.notOppositeTwo{
+    color: #6ea9c3;
+}
+.links{
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+}
+.icon, .iconTwo{
+    font-size: 0.7rem;
+    text-align: center;
+    align-content: center;
+    width: 30px;
+    height: 30px;
+    border: 2px solid rgba(134,106,102,255);
+    border-radius: 50px;
+}
+.iconTwo{
+    border: 2px solid #6ea9c3;
+}
+.inputs, .inputsTwo{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 25%;
+}
+.inputEl{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.input, .inputTwo{
+    width: 100%;
+    border: 2px solid rgba(134,106,102,255);
+    border-radius: 20px;
+    padding: 2px 30px;
+    color: rgba(134,106,102,255);
+    font-weight: 550;
+}
+.inputTwo{
+    border: 2px solid #6ea9c3;
+    color: #6ea9c3;
+}
+.iconIn{
+    position: absolute;
+    padding-left: 10px;
+}
+.btnO , .btnOP, .btnOPTwo, .btnOTwo{
+    border: 2px solid #ffffff;
+    border-radius: 20px;
+    padding: 2px 20px;
+    font-family: babydoll;
+    cursor: pointer;
+}
+.btnOTwo{
+    background-color: #6eaac396;
+}
+.btnO:hover, .btnOTwo:hover{
+    color: rgba(134,106,102,255);
+    background-color: #ffffff;
+}
+.btnOTwo:hover{
+    color:#6ea9c3;
+}
+.btnOP{
+    border: 2px solid rgba(134,106,102,255);
+}
+.btnOPTwo{
+    border: 2px solid #6ea9c3;
+}
+.btnOP:hover , .icon:hover{
+    color: #fff;
+    background-color:rgba(134,106,102,255);
+}
+.btnOPTwo:hover , .iconTwo:hover{
+    color: #fff;
+    background-color: #6ea9c3;
+}
+.titleO, .titleOP, .titleOPTwo{
+    font-size: 2.5rem;
+    font-family: babydoll;
+    text-shadow: #000000b4 1px 1px 8px;
+    color: #ffffff;
+}
+.titleOP{
+    color: rgba(134,106,102,255);
+    text-shadow: none;
+}
+
+.oppositeTwo{
+    border-bottom-right-radius: 12px;
+    border-top-right-radius: 12px;
+}
+.inputsTwo{
+    height: 15%;
+}
+
+.signIn{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 70%;
+    width: 50%;
+    box-shadow: #0000003a 1px 1px 7px 1px;
+    border-radius: 20px;
+    font-family: satoshi;
+    color: white;
+}
+
+.signUp{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 70%;
+    width: 50%;
+    box-shadow: #0000003a 1px 1px 7px 1px;
+    border-radius: 20px;
+    font-family: satoshi;
+    color: white;
+}
+.transition {
+    transition: all 0.5s ease;
+    opacity: 1;
+}
+
+.notOppositeTwo{
+    color: #6ea9c3;
+}
+.hide {
+    opacity: 0;
+    pointer-events: none;
+    position: absolute;
+}
+@media (max-width: 450px) {
+  .signIn,
+  .signUp {
+    flex-direction: column;
+    width: 95%;
+    height: auto;
+    margin: 0 auto;
+  }
+
+  .opposite,
+  .oppositeTwo {
+    width: 100%;
+    height: auto;
+    padding: 2rem 1rem;
+    border-radius: 12px 12px 0 0;
+  }
+
+  .notOpposite, .notOppositeTwo {
+    width: 100%;
+    height: auto;
+    padding: 2rem 1rem;
+  }
+
+  .inputs,
+  .inputsTwo {
+    width: 100%;
+    gap: 1rem;
+  }
+
+  .inputEl {
+    width: 100%;
+    gap: 10px;
+  }
+
+  .input {
+    width: 100%;
+  }
+
+  .links {
+    gap: 1rem;
+  }
+
+  .titleO,
+  .titleOP {
+    font-size: 2rem;
+  }
+
+  .descO {
+    width: 90%;
+    font-size: 0.9rem;
+  }
+
+  .btnO,
+  .btnOP {
+    padding: 6px 20px;
+    font-size: 0.9rem;
+  }
+}

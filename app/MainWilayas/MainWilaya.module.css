@@ -1,0 +1,142 @@
+@font-face {
+    font-family:satoshi ;
+    src: url(../../public/fonts/Satoshi-Variable.ttf);}
+@font-face {
+    font-family:montserrat ;
+    src: url(../../public//fonts/Montserrat-ExtraBold.ttf);}
+.mainWilaya{
+    height: 100vh;
+    align-content: center;
+    font-family: satoshi;}
+.img{
+    border: 5px solid #ffffff;
+    padding: 10px;
+    border-radius: 100px;
+    filter: grayscale(50%);}
+
+.wilayaCards {
+    display: flex;
+    background-color: #878e9444;
+    width: 80%;
+    height: 80vh;
+    margin: 0 auto;
+    padding: 1rem;
+    align-items: center;
+    border-radius: 50px;}
+
+.wilayaCard {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100% ;
+    padding: 30px 20px;
+    height: 100%;
+    margin: 0 auto;}
+
+:global(.wilayaCards .swiper-slide) {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;}
+.swipe:hover{
+    color: #818181;
+    background: none;}
+
+.swipe{
+    color: #ffffff;
+    font-size: 1.5rem;
+    background-color: #818181;
+    padding:5px 15px;
+    border-radius: 50px;}
+.wilayaInfo{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 50vh;
+    width: 40%;
+    margin-left: 70px;
+}
+.wilayaName{
+    color: #ffffff;
+    text-shadow: 1px 1px 2px #0000004b;
+    font-size: 4rem;
+    font-family: montserrat;}
+.wilayaDesc{
+    color: #818181;
+    font-size: 1.2rem;
+    width: 70%;}
+.ta{
+    border: 3px solid #686767;
+    width: 50%;
+    text-align: center;
+    color: #fff;
+    border-radius:20px ;
+    padding: 2px 0px;
+    font-weight: 500;
+    background-color: #686767;}
+.ta:hover{
+    border: 3px solid #686767;
+    background-color: #fff;
+    color: #686767;}
+
+@media (max-width: 450px) {
+    :global(.swiper-slide) {
+    flex-direction: column !important;
+    align-items: center;
+    justify-content: flex-start;
+}
+    .mainWilaya {
+    height: auto;
+}
+    .wilayaCards {
+    display: block;
+    flex-direction: column;
+    width: 95%;
+    height: auto;
+    padding: 1rem;
+    border-radius: 30px;
+    margin-bottom: 20px;
+}
+    .wilayaCard {
+    align-items: center;
+    display: flex;
+    padding: 1rem;
+    gap: 1rem;
+    height: auto;
+    width: 100%;
+    flex-direction: column;
+}
+    .img {
+    width: 85%;
+    border-radius: 10%;
+    justify-self: center;
+}
+    .wilayaInfo {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+    height: auto;
+    margin-left: 0;
+}
+    .wilayaName {
+    font-size: 2rem;
+    line-height: 2.3rem;
+}
+    .wilayaDesc {
+    font-size: 0.95rem;
+    width: 90%;
+    margin: 0 auto;
+    color: #818181;
+}
+    .ta {
+    font-size: 0.9rem;
+    width: 70%;
+    padding: 5px 0;
+}
+    .swipe {
+    display: none;
+}}
+
+
